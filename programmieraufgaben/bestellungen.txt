@@ -1,0 +1,5 @@
+Anna | Margherita, Funghi, Margherita
+BEN  |  Salami , salami, Capricciosa
+Clara|Diavola,Margherita
+daniel | Funghi , Funghi, Funghi, Margherita
+Eva| Capricciosa, Diavola, Margherita , Salami
